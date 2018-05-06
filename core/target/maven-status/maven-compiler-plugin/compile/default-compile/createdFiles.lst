@@ -1,0 +1,3 @@
+pro\jtaylor\timetracker\core\TrackerCoreConfig.class
+pro\jtaylor\timetracker\core\dao\TimeEntry.class
+pro\jtaylor\timetracker\core\Tracker.class
